@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+
+  grideye_simulator:
+    container_name: grideye_sim
+    build: ../images/GridEye_Simulator
+    ports:
+      - 2404:2404
+    volumes:
+      - applicativeLogs:/logs
+
+  filebeat:
+    container_name: fbeat
+    build: ../images/filebeat
+
+volumes:
+  applicativeLogs:
+    driver: local
+    driver_opts:
+      type: 'none'
+      o: 'bind'
+      device: '/home/jael/Cours/TB/Elastic_Stack/docker_field/images/GridEye_Simulator/logs'
