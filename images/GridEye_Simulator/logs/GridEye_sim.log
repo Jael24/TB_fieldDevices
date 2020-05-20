@@ -65,3 +65,99 @@
 2020-05-20 12:21:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
 2020-05-20 12:21:04.006 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
 2020-05-20 12:21:04.507 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-20 13:03:03.064 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-20 13:03:03.323 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on 7cac86ef3399 with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-20 13:03:03.327 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-20 13:03:03.327 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-20 13:03:05.852 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-20 13:03:06.021 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-20 13:03:07.824 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-20 13:05:53.515 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-20 13:05:53.778 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on 1baee58b243e with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-20 13:05:53.779 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-20 13:05:53.780 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-20 13:05:56.759 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-20 13:05:56.956 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-20 13:05:58.648 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-20 13:06:00.917 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-20 13:06:00.922 INFO  ch.grideye.log.generator.Application -> Started Application in 8.127 seconds (JVM running for 9.11)
+2020-05-20 13:07:52.202 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-20 13:07:52.478 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on a6fb7084611c with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-20 13:07:52.479 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-20 13:07:52.480 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-20 13:07:54.887 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-20 13:07:54.920 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-20 13:07:56.623 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-20 13:07:59.258 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-20 13:07:59.265 INFO  ch.grideye.log.generator.Application -> Started Application in 7.835 seconds (JVM running for 8.531)
+2020-05-20 13:08:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-20 13:08:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-20 13:08:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-20 13:08:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-20 13:08:02.002 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-20 13:08:02.503 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-20 13:08:03.004 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-20 13:08:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-20 13:08:04.007 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-20 13:08:04.508 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-20 13:09:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-20 13:09:00.002 WARN  ch.grideye.log.generator.services.DataService -> tst08 - Invalid data insertion, discarding !
+2020-05-20 13:09:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-20 13:09:01.004 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-20 13:09:01.505 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-20 13:09:02.006 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-20 13:09:02.507 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-20 13:09:03.008 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-20 13:09:03.509 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-20 13:09:04.011 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-20 13:09:04.512 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-20 13:10:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-20 13:10:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-20 13:10:01.003 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-20 13:10:01.504 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-20 13:10:02.005 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-20 13:10:02.506 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-20 13:10:03.008 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-20 13:10:03.509 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-20 13:10:04.010 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-20 13:10:04.511 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-20 13:10:55.584 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-20 13:10:55.835 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on 0b8a4405c3ee with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-20 13:10:55.837 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-20 13:10:55.839 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-20 13:10:58.608 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-20 13:10:58.775 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-20 13:11:00.385 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-20 13:11:03.055 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-20 13:11:03.059 INFO  ch.grideye.log.generator.Application -> Started Application in 8.34 seconds (JVM running for 9.433)
+2020-05-20 13:12:00.001 WARN  ch.grideye.log.generator.services.DataService -> tst09 - Invalid data insertion, discarding !
+2020-05-20 13:12:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-20 13:12:00.503 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-20 13:12:01.004 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-20 13:12:01.505 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-20 13:12:02.006 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-20 13:12:02.507 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-20 13:12:03.008 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-20 13:12:03.509 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-20 13:12:04.009 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-20 13:12:04.511 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-20 13:13:43.523 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-20 13:13:43.823 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on 47fa59b32117 with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-20 13:13:43.825 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-20 13:13:43.828 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-20 13:13:47.492 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-20 13:13:47.703 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-20 13:13:49.829 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-20 13:13:52.835 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-20 13:13:52.839 INFO  ch.grideye.log.generator.Application -> Started Application in 10.016 seconds (JVM running for 10.674)
+2020-05-20 13:14:00.003 ERROR ch.grideye.log.generator.services.DataService -> tst45 - Unknown source for data insertion, discarding !
+2020-05-20 13:14:00.003 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-20 13:14:00.507 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-20 13:14:01.007 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-20 13:14:01.508 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-20 13:14:02.008 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-20 13:14:02.510 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-20 13:14:03.011 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-20 13:14:03.513 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-20 13:14:04.014 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-20 13:14:04.515 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !

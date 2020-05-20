@@ -13,6 +13,8 @@ services:
   filebeat:
     container_name: fbeat
     build: ../images/filebeat
+    volumes:
+      - applicativeLogs:/usr/share/filebeat/logs
 
 volumes:
   applicativeLogs:
@@ -20,4 +22,4 @@ volumes:
     driver_opts:
       type: 'none'
       o: 'bind'
-      device: '/home/jael/Cours/TB/Elastic_Stack/docker_field/images/GridEye_Simulator/logs'
+      device: '/media/jael/Data/Cours/TB/Elastic_Stack/docker/docker-field/images/GridEye_Simulator/logs'

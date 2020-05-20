@@ -1,6 +1,5 @@
 FROM docker.elastic.co/beats/filebeat:7.6.2
 COPY config/filebeat.yml /usr/share/filebeat/filebeat.yml
-COPY tmp/grideyelogs.log /usr/share/filebeat/logs/GridEye_Simulator.log
 USER root
 RUN chown root:filebeat /usr/share/filebeat/filebeat.yml
 USER filebeat
