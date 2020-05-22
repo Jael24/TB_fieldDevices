@@ -1,0 +1,12 @@
+metricbeat.modules:
+- module: system
+  metricsets: ["cpu","memory"]
+  enabled: true
+  period: 10s
+  processes: ['.*']
+
+  cpu.metrics:  ["percentages","normalized_percentages"]
+  core.metrics: ["percentages"]
+
+output.logstash:
+  hosts: ["192.168.1.119:5044"]

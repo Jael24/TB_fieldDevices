@@ -16,6 +16,10 @@ services:
     volumes:
       - applicativeLogs:/usr/share/filebeat/logs
 
+  metricbeat:
+    container_name: mbeat
+    build: ../images/metricbeat
+
 volumes:
   applicativeLogs:
     driver: local
