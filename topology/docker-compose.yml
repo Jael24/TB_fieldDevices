@@ -20,6 +20,14 @@ services:
     container_name: mbeat
     build: ../images/metricbeat
 
+  # Non-persistant DB
+  db:
+    image: postgres:12.1
+    container_name: postgres
+    ports:
+      - 5432:5432
+
+
 volumes:
   applicativeLogs:
     driver: local
