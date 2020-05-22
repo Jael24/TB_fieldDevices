@@ -8,5 +8,13 @@ metricbeat.modules:
   cpu.metrics:  ["percentages","normalized_percentages"]
   core.metrics: ["percentages"]
 
+- module: postgresql
+  enabled: true
+  period: 10s
+  metricsets: ["database"]
+  hosts: ["postgres://postgres:5432?sslmode=disable"]
+  username: postgres
+  password: postgres
+
 output.logstash:
   hosts: ["192.168.1.119:5045"]

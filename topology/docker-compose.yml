@@ -19,6 +19,8 @@ services:
   metricbeat:
     container_name: mbeat
     build: ../images/metricbeat
+    depends_on:
+      - db
 
   # Non-persistant DB
   db:
