@@ -161,3 +161,263 @@
 2020-05-20 13:14:03.513 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
 2020-05-20 13:14:04.014 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
 2020-05-20 13:14:04.515 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 11:53:13.200 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-22 11:53:13.467 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on eebb29835444 with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-22 11:53:13.468 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-22 11:53:13.468 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-22 11:53:15.843 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-22 11:53:16.010 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-22 11:53:17.474 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-22 11:53:20.273 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-22 11:53:20.278 INFO  ch.grideye.log.generator.Application -> Started Application in 7.82 seconds (JVM running for 8.504)
+2020-05-22 11:54:00.001 WARN  ch.grideye.log.generator.services.DataService -> tst03 - Invalid data insertion, discarding !
+2020-05-22 11:54:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 11:54:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 11:54:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 11:54:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 11:54:02.004 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 11:54:02.505 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 11:54:03.007 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 11:54:03.507 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 11:54:04.009 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 11:54:04.510 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 11:55:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 11:55:00.001 DEBUG ch.grideye.log.generator.services.CpuService -> Start of background processing for a greedy CPU algorithm !
+2020-05-22 11:55:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 11:55:01.004 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 11:55:01.504 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 11:55:02.005 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 11:55:02.506 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 11:55:03.010 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 11:55:03.511 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 11:55:04.014 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 11:55:04.514 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:19:54.973 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-22 12:19:55.271 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on 260b57e07dfb with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-22 12:19:55.281 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-22 12:19:55.282 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-22 12:19:57.734 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-22 12:19:57.923 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-22 12:19:59.566 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-22 12:20:01.706 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-22 12:20:01.711 INFO  ch.grideye.log.generator.Application -> Started Application in 7.749 seconds (JVM running for 8.652)
+2020-05-22 12:20:43.518 TRACE org.springframework.beans.BeanUtils -> No property editor [org.springframework.boot.logging.LogLevelEditor] found for type org.springframework.boot.logging.LogLevel according to 'Editor' suffix convention
+2020-05-22 12:20:43.793 INFO  ch.grideye.log.generator.Application -> Starting Application v1.0.0-SNAPSHOT on e7442449c591 with PID 1 (/grideye_sim.jar started by root in /)
+2020-05-22 12:20:43.798 DEBUG ch.grideye.log.generator.Application -> Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-22 12:20:43.799 INFO  ch.grideye.log.generator.Application -> No active profile set, falling back to default profiles: default
+2020-05-22 12:20:46.788 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat initialized with port(s): 4040 (https) 4050 (http)
+2020-05-22 12:20:46.856 ERROR org.apache.coyote.http11.Http11NioProtocol -> The upgrade handler [org.apache.coyote.http2.Http2Protocol] for [h2] only supports upgrade via ALPN but has been configured for the ["https-jsse-nio-4040"] connector that does not support ALPN.
+2020-05-22 12:20:48.778 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration -> spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-05-22 12:20:51.844 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -> Tomcat started on port(s): 4040 (https) 4050 (http) with context path ''
+2020-05-22 12:20:51.848 INFO  ch.grideye.log.generator.Application -> Started Application in 8.923 seconds (JVM running for 9.61)
+2020-05-22 12:21:00.000 ERROR ch.grideye.log.generator.services.DataService -> tst57 - Unknown source for data insertion, discarding !
+2020-05-22 12:21:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:21:00.001 WARN  ch.grideye.log.generator.services.DataService -> tst08 - Invalid data insertion, discarding !
+2020-05-22 12:21:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:21:01.003 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:21:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:21:02.004 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:21:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:21:03.005 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:21:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:21:04.006 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:21:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:22:00.001 DEBUG ch.grideye.log.generator.services.CpuService -> Start of background processing for a greedy CPU algorithm !
+2020-05-22 12:22:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:22:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:22:01.006 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:22:01.507 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:22:02.009 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:22:02.513 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:22:03.017 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:22:03.521 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:22:04.024 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:22:04.526 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:23:03.106 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:23:03.606 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:23:04.107 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:23:04.608 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:23:05.110 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:23:05.611 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:23:06.113 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:23:06.693 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:23:07.196 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:23:07.700 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:23:53.056 DEBUG ch.grideye.log.generator.services.CpuService -> End of background processing for a greedy CPU algorithm !
+2020-05-22 12:24:00.000 WARN  ch.grideye.log.generator.services.DataService -> tst03 - Invalid data insertion, discarding !
+2020-05-22 12:24:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:24:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:24:01.001 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:24:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:24:02.002 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:24:02.503 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:24:03.003 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:24:03.504 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:24:04.004 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:24:04.505 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:25:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:25:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:25:01.001 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:25:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:25:02.003 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:25:02.503 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:25:03.004 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:25:03.504 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:25:04.004 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:25:04.505 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:26:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:26:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:26:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:26:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:26:02.002 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:26:02.503 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:26:03.003 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:26:03.504 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:26:04.004 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:26:04.505 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:27:00.000 WARN  ch.grideye.log.generator.services.DataService -> tst09 - Invalid data insertion, discarding !
+2020-05-22 12:27:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:27:00.503 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:27:01.003 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:27:01.504 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:27:02.005 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:27:02.505 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:27:03.005 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:27:03.506 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:27:04.006 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:27:04.507 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:28:00.000 ERROR ch.grideye.log.generator.services.DataService -> tst52 - Unknown source for data insertion, discarding !
+2020-05-22 12:28:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:28:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:28:01.001 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:28:01.501 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:28:02.002 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:28:02.502 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:28:03.002 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:28:03.503 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:28:04.003 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:28:04.504 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:29:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:29:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:29:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:29:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:29:02.003 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:29:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:29:03.005 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:29:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:29:04.006 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:29:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:30:00.001 WARN  ch.grideye.log.generator.services.DataService -> tst01 - Invalid data insertion, discarding !
+2020-05-22 12:30:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:30:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:30:01.003 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:30:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:30:02.004 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:30:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:30:03.005 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:30:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:30:04.005 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:30:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:31:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:31:00.503 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:31:01.004 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:31:01.505 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:31:02.005 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:31:02.506 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:31:03.006 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:31:03.507 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:31:04.007 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:31:04.508 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:32:00.000 DEBUG ch.grideye.log.generator.services.RamService -> Start of background processing for a greedy RAM algorithm !
+2020-05-22 12:32:00.003 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:32:00.727 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:32:01.228 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:32:02.128 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:32:02.217 ERROR org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler -> Unexpected error occurred in scheduled task
+java.lang.OutOfMemoryError: Java heap space
+	at ch.grideye.log.generator.services.RamService.computeRamGreedyAlgorithm(RamService.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-22 12:32:02.715 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:32:03.216 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:32:03.716 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:32:04.217 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:32:04.717 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:32:05.218 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:33:00.000 WARN  ch.grideye.log.generator.services.DataService -> tst09 - Invalid data insertion, discarding !
+2020-05-22 12:33:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:33:00.001 DEBUG ch.grideye.log.generator.services.CpuService -> Start of background processing for a greedy CPU algorithm !
+2020-05-22 12:33:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:33:01.006 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:33:01.508 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:33:02.012 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:33:02.515 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:33:03.018 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:33:03.521 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:33:04.023 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:33:04.525 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:34:00.002 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:34:00.512 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:34:01.013 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:34:01.514 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:34:02.015 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:34:02.517 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:34:03.025 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:34:03.529 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:34:04.041 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:34:04.561 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:34:51.901 DEBUG ch.grideye.log.generator.services.CpuService -> End of background processing for a greedy CPU algorithm !
+2020-05-22 12:35:00.000 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:35:00.000 ERROR ch.grideye.log.generator.services.DataService -> tst56 - Unknown source for data insertion, discarding !
+2020-05-22 12:35:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:35:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:35:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:35:02.003 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:35:02.503 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:35:03.004 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:35:03.504 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:35:04.005 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:35:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:36:00.000 WARN  ch.grideye.log.generator.services.DataService -> tst06 - Invalid data insertion, discarding !
+2020-05-22 12:36:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:36:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:36:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:36:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:36:02.004 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:36:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:36:03.005 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:36:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:36:04.005 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:36:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:37:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:37:00.501 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:37:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:37:01.502 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:37:02.003 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:37:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:37:03.004 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:37:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:37:04.005 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:37:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
+2020-05-22 12:38:00.001 INFO  ch.grideye.log.generator.services.DataService -> tst00 - Inserting data !
+2020-05-22 12:38:00.502 INFO  ch.grideye.log.generator.services.DataService -> tst01 - Inserting data !
+2020-05-22 12:38:01.002 INFO  ch.grideye.log.generator.services.DataService -> tst02 - Inserting data !
+2020-05-22 12:38:01.503 INFO  ch.grideye.log.generator.services.DataService -> tst03 - Inserting data !
+2020-05-22 12:38:02.003 INFO  ch.grideye.log.generator.services.DataService -> tst04 - Inserting data !
+2020-05-22 12:38:02.504 INFO  ch.grideye.log.generator.services.DataService -> tst05 - Inserting data !
+2020-05-22 12:38:03.004 INFO  ch.grideye.log.generator.services.DataService -> tst06 - Inserting data !
+2020-05-22 12:38:03.505 INFO  ch.grideye.log.generator.services.DataService -> tst07 - Inserting data !
+2020-05-22 12:38:04.006 INFO  ch.grideye.log.generator.services.DataService -> tst08 - Inserting data !
+2020-05-22 12:38:04.506 INFO  ch.grideye.log.generator.services.DataService -> tst09 - Inserting data !
