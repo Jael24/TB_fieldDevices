@@ -5,6 +5,7 @@ services:
   grideye_simulator:
     container_name: grideye_sim
     build: ../images/GridEye_Simulator
+    restart: on-failure
     ports:
       - 2404:2404
     volumes:
@@ -24,8 +25,8 @@ services:
 
   # Non-persistant DB
   db:
-    image: postgres:12.1
     container_name: postgres
+    build: ../images/postgresql
     ports:
       - 5432:5432
 
