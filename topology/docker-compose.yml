@@ -22,6 +22,8 @@ services:
     build: ../images/metricbeat
     depends_on:
       - db
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
 
   # Non-persistant DB
   db:
