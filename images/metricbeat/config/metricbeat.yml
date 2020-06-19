@@ -5,7 +5,7 @@ metricbeat.modules:
   period: 10s
   processes: ['.*']
 
-  cpu.metrics:  ["percentages","normalized_percentages"]
+  cpu.metrics:  ["percentages"]
   core.metrics: ["percentages"]
 
 - module: postgresql
@@ -16,7 +16,6 @@ metricbeat.modules:
   username: postgres
   password: postgres
 
-metricbeat.modules:
 - module: docker
   metricsets:
     - "container"
