@@ -13,13 +13,19 @@ services:
 
   filebeat:
     container_name: fbeat
-    build: ../images/filebeat
+    build:
+            context: ../images/filebeat
+            args:
+                    elastic_version: 7.8.0
     volumes:
       - applicativeLogs:/usr/share/filebeat/logs
 
   metricbeat:
     container_name: mbeat
-    build: ../images/metricbeat
+    build:
+            context: ../images/metricbeat
+            args:
+                    elastic_version: 7.8.0
     depends_on:
       - db
     volumes:
